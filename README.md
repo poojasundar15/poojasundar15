@@ -3,6 +3,6 @@
 
 ### Find me all around the web:
 
-[![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://www.holopin.io/@poojasundar15#)
+[![@Pooja Sundar holopin](https://holopin.io/api/user/board?user=mishmanners)](https://www.holopin.io/@poojasundar15#)
 
 
