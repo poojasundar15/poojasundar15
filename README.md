@@ -1,5 +1,5 @@
 
-## 👋 Hy Everyone! This is Pooja Sundar®™ Computer Application(CS) student pursuing MCA, who is having a technonlogy Enthusiast 👋
+## 👋 Hy Everyone! This is Pooja Sundar®™ Computer Application(CS) - student pursuing MCA, who is having a technonlogy Enthusiast 👋
 
 ### Find me all around the web:
 
