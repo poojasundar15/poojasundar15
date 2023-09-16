@@ -1,8 +1,6 @@
 
-## 👋 Hy Everyone! This is Pooja Sundar®™ Computer Application(CS) - student pursuing MCA, who is having a technonlogy Enthusiast 👋
+### Hy Everyone!👋
 
-### Find me all around the web:
-
-[![@Pooja Sundar holopin](https://holopin.io/api/user/board?user=mishmanners)](https://www.holopin.io/@poojasundar15#)
+I'm Pooja from India, Technology Enthusiast who is pursuing Master's in Computer Application. I do Java/Scala project developments and Machine Learning & Deep Learning Predictions. I really enjoy learning new programming languages and frameworks like SpringBoot, Akka and Kafka. I also enjoy working in research works in general. You can check out my resumes at https://drive.google.com/file/d/1s4SXV5IVXC7y9MmB3osKGB9dZoCguAV3/view?usp=drivesdk&authuser=0
 
 
