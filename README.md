@@ -1,6 +1,6 @@
 # Hi, Everyone!👋
 
-I'm Pooja from :india:, final year student Technology Enthusiast pursuing Master's in Computer Application from VIT, Vellore:innocent:. I am who tries to learn new things every single day. Always try and work with people who are better than I am, so that I can come out of my comfort zone and learn new things. I do Java/Scala project developments and Machine Learning & Deep Learning Projects. I really enjoy learning new programming languages and frameworks like SpringBoot, Akka & Kafka and I love to mentor my juniors and work for the betterment of the community:hugs:.
+I'm Pooja from India(:india:), final year student Technology Enthusiast pursuing Master's in Computer Application from VIT, Vellore:innocent:. I am who tries to learn new things every single day. Always try and work with people who are better than I am, so that I can come out of my comfort zone and learn new things. I do Java/Scala project developments and Machine Learning & Deep Learning Projects. I really enjoy learning new programming languages and frameworks like SpringBoot, Akka & Kafka and I love to mentor my juniors and work for the betterment of the community:hugs:.
 
 My Resume: [[Click here]](https://drive.google.com/file/d/1PGGcu7OocR0gpK-IWH_tBKNGLeLVOzbx/view?usp=drive_link)
 
