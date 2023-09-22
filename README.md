@@ -10,8 +10,8 @@ My Resume: [[Click here]](https://drive.google.com/file/d/1PGGcu7OocR0gpK-IWH_tB
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](poojasundar519@gmail.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/poojasundar15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pooja-sundar-676023215/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/_poojasundar_?igshid=MzRlODBiNWFlZA==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17790776/pooja-sundar)  
 
-<br />
 ## Visiter Counter
+<br />
     <a href="https://visit-counter.vercel.app/">
         <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FdevXprite%2Fvisit-counter&s=70&c=00ff00&bg=00000000&no=3&ff=digii" alt="visits">
     </a>
