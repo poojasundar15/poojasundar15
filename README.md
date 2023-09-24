@@ -4,10 +4,7 @@ I'm Pooja from India(:india:) final year student, Technology Enthusiast pursuing
 
 My Resume: [[Click here]](https://drive.google.com/file/d/1PGGcu7OocR0gpK-IWH_tBKNGLeLVOzbx/view?usp=drive_link)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojasundar15)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=poojasundar15&show_icons=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Pooja Sundar" width="600">
+<img src="https://github-readme-stats.vercel.app/api?username=poojasundar15&show_icons=true&count_private=true&theme=" alt="GitHub Stats for Pooja Sundar" width="600">
 
 ## Fine me all around the web!:stuck_out_tongue_winking_eye:
 
