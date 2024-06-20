@@ -4,10 +4,7 @@ I'm Pooja Sundar from India(:india:), Technology Enthusiast pursuing Master's in
 
 My Resume: [[Click here]](https://drive.google.com/file/d/1PGGcu7OocR0gpK-IWH_tBKNGLeLVOzbx/view?usp=drive_link)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/poojasundar15?cardType=level&theme=jolly&preferLogin=false&Ring=DDDCDC&show_icons=true&hide_border=true&layout=compact)](https://git.io/awesome-stats-card)
-
-![poojasundar15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poojasundar15&theme=jolly&hide_border=true&layout=compact)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/poojasundar15?cardType=level&theme=jolly&preferLogin=false&Ring=DDDCDC&show_icons=true&hide_border=true&layout=compact)](https://git.io/awesome-stats-card) ![poojasundar15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poojasundar15&theme=jolly&hide_border=true&layout=compact)
 ![poojasundar15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojasundar15&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 
 ## Fine me all around the web!
