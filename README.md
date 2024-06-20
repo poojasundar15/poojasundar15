@@ -4,8 +4,6 @@ I'm Pooja Sundar from India(:india:), Technology Enthusiast pursuing Master's in
 
 My Resume: [[Click here]](https://drive.google.com/file/d/1PGGcu7OocR0gpK-IWH_tBKNGLeLVOzbx/view?usp=drive_link)
 
-// ![Pooja Sundar's GitHub stats,](https://github-readme-stats.vercel.app/api?username=poojasundar15&show_icons=true&theme=jolly)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/poojasundar15?cardType=github&theme=jolly&preferLogin=false&Ring=DDDCDC)](https://git.io/awesome-stats-card)
 
 ## Fine me all around the web!
