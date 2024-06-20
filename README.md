@@ -6,8 +6,10 @@ My Resume: [[Click here]](https://drive.google.com/file/d/1PGGcu7OocR0gpK-IWH_tB
 
 ![Pooja Sundar's GitHub stats,](https://github-readme-stats.vercel.app/api?username=poojasundar15&show_icons=true&theme=jolly)
 
+<a href="https://github.com/exelban/stats/releases"><p align="center"><img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="120"></p></a>
 
-<a href="https://github.com/exelban/stats/releases"><p align="center"><img src="https://github.com/poojasundar15/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="120"></p></a>
+[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/menus%3Fv2.3.2.png?v1)](https://github.com/poojasundar15/stats/releases)
+[![Stats](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/stats/popups%3Fv2.3.2.png?v3)](https://github.com/poojasundar15/stats/releases)
 
 
 ## Fine me all around the web!
