@@ -6,7 +6,7 @@ My Resume: [[Click here]](https://drive.google.com/file/d/1PGGcu7OocR0gpK-IWH_tB
 
 ![Pooja Sundar's GitHub stats,](https://github-readme-stats.vercel.app/api?username=poojasundar15&show_icons=true&theme=jolly)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/poojasundar15?cardType=github&theme=github-dark&preferLogin=false&Ring=DDDCDC)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/poojasundar15?cardType=github&theme=jolly&preferLogin=false&Ring=DDDCDC)](https://git.io/awesome-stats-card)
 
 ## Fine me all around the web!
 
