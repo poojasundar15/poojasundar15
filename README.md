@@ -1,5 +1,6 @@
 # Hello, Everyone!👋
 Greetings of the day!
+
 I'm Pooja Sundar from India(:india:), Technology Enthusiast pursuing Master's in Computer Application(MCA) from VIT University, Vellore:innocent:. I am, who tries to learn new things every single day. Always try and work with people better than I am, so that I can come out of my comfort zone & learn new things. I do Java/Scala project development and Machine Learning & Deep Learning Projects aswell, now tried to learn front-end development. I really enjoy learning programming languages and frameworks like Microservices, SpringBoot, ReactJS, NodeJS, Akka & Kafka etc., & I love to mentor my junior's and work for the betterment of the community:hugs:.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/poojasundar15?cardType=level&theme=jolly&preferLogin=false&Ring=DDDCDC)](https://git.io/awesome-stats-card) ![poojasundar15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poojasundar15&theme=jolly&hide_border=true&layout=compact)
