@@ -1,4 +1,4 @@
-# Hello, Everyone!!!👋
+# Hi, Everyone!👋
 
 ## Greetings of the day!
 
