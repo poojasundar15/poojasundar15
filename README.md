@@ -2,7 +2,7 @@
 
 ## Greetings of the day!
 
-I'm Pooja M Sundar from India, Technology Enthusiast completed my Master's in Computer Application(MCA) from **VIT University** . I am, who tries to learn new thing every single day. Always try and work with people better than I am, so that I can come out of my comfort zone & learn new things. I do Java/Scala project development and Machine Learning & Deep Learning Projects aswell, now tried to learn front-end development. I really enjoy learning programming languages Java, Scala and frameworks Microservices, SpringBoot, ReactJS, NodeJS, Akka & Kafka and Cloud services AWS, GCP and Azure & I love to mentor my junior's and work for the betterment of the community!
+I'm Pooja M Sundar from India, Technology Enthusiast completed my Master's in Computer Application(MCA) from **VIT University** . I am, who tries to learn new thing every single day. Always try and work with people better than I am, so that I can come out of my comfort zone & learn new things. I do Java/Scala project development and Machine Learning & Deep Learning Projects aswell, now tried to learn front-end development. I really enjoy learning programming languages *Java, Scala and frameworks Microservices, SpringBoot, ReactJS, NodeJS, Akka & Kafka and Cloud services AWS, GCP and Azure* & I love to mentor my junior's and work for the betterment of the community!
 
 <!-- 2020 graph
 <img src="https://github.com/poojasundar15/poojasundar15/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
