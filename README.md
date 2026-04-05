@@ -6,8 +6,4 @@ I'm **Pooja M Sundar** from India, a Technology Enthusiast I completed my Master
 <img src="https://github.com/poojasundar15/poojasundar15/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/poojasundar15?cardType=level&theme=jolly&preferLogin=false&Ring=DDDCDC)](https://github-readme-streak-stats.herokuapp.com/?user=poojasundar15&theme=jolly&hide_border=true&layout=compact)
-![poojasundar15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojasundar15&theme=jolly&show_icons=true&hide_border=true&layout=compact) 
-
-## Visitor Counts!
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpoojasundar15&s=30&c=9905a3&bg=00000000&no=5&ff=alien&tb=&ta=" alt="visits">
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+![poojasundar15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojasundar15&theme=jolly&show_icons=true&hide_border=true&layout=compact)
